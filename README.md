@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">🎓 Pursuing a Bachelor's in Information Technology<br>💻 Currently learning Fullstack Development<br>⚡ Love working on hobby projects in my free time<br>🌱 Always excited to learn new technologies and frameworks<br>🤝 Open to collaborate on interesting tech projects<br>🚀 Aspiring to become a Fullstack Develope</p>
+<p align="left">🎓 Pursuing a Bachelor's in Information Technology<br>💻 Currently learning Fullstack Development<br>⚡ Love working on hobby projects in my free time<br>🌱 Always excited to learn new technologies and frameworks<br>🤝 Open to collaborate on interesting tech projects<br>🚀 Aspiring to become a Fullstack Developer</p>
 
 ###
 
